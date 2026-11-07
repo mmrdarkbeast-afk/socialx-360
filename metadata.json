@@ -1,0 +1,6 @@
+{
+  "name": "Verve Social",
+  "description": "Modern social commons featuring customizable user profiles, multimedia feed, live interactions, and creator discovery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
